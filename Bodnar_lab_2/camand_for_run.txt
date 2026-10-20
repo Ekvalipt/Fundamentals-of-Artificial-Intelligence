@@ -1,0 +1,5 @@
+streamlit run app.py --server.runOnSave True
+
+'or'
+
+streamlit run app.py
